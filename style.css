@@ -1,0 +1,20 @@
+.main{
+  font-family: 'Courier New', Courier, monospace;
+  background: rgb(182, 179, 179);
+}
+.MainHeading{
+  text-align: center;
+}
+.input{
+  text-align: center;
+}
+.card{
+text-align: center;
+}
+.temp,.desc,.Farenheit,.Celsius,.name{
+    /* color:blueviolet; */
+  text-decoration: darkgray;
+  font-size: 30px;
+  
+}
+
